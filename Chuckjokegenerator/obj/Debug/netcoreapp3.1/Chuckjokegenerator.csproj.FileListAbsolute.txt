@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.exe
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.deps.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\bin\Debug\netcoreapp3.1\Chuckjokegenerator.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\Chuckjokegenerator\obj\Debug\netcoreapp3.1\Chuckjokegenerator.genruntimeconfig.cache

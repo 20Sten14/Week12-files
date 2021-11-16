@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.exe
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.deps.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.runtimeconfig.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\bin\Debug\netcoreapp3.1\FrutisAndVegtables.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.dll
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.pdb
+C:\Users\opilane\source\repos\Titpe21\BlackSheep\FrutisAndVegtables\obj\Debug\netcoreapp3.1\FrutisAndVegtables.genruntimeconfig.cache
